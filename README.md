@@ -1,4 +1,4 @@
-# Calculator Python wit SOLID
+# Calculator Python using SOLID
 
 This little project's main goal was to practice OOP, SOLID, design patterns and RESTful API with Flask and Python. It also includes some Unit Testing with "unittest" library.
 
