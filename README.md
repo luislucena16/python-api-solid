@@ -1,4 +1,4 @@
-# Calculator Python
+# Calculator Python wit SOLID
 
 This little project's main goal was to practice OOP, SOLID, design patterns and RESTful API with Flask and Python. It also includes some Unit Testing with "unittest" library.
 
@@ -31,8 +31,18 @@ The only extension implemented ATM is "color" which will result with returning a
 
 # Test:
 
-You can use the following command:
+To run the tests you need to navigate to the `calculator-python` folder:
 
 ```
-python -m unittest unit_testing.py
+cd calculator-python
 ```
+
+Now run:
+
+```
+python3 -m unittest unit_testing.py
+```
+
+- A dot (.) indicates a test that has successfully passed.
+- An F indicates a test that has failed (will be shown alongside with the given failure text message set in the testing function)."
+- An E indicates a test that couldn't run due to an error (will be shown alongside with the error message).
