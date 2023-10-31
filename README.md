@@ -29,7 +29,7 @@ The only extension implemented ATM is "color" which will result with returning a
 
 - Please do note that the division sign should be " : " and not " / " .
 
-# Test:
+# Test
 
 To run the tests you need to navigate to the `calculator-python` folder:
 
